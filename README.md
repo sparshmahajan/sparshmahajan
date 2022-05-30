@@ -11,8 +11,10 @@
   <a href="mailto:sparshmahajan3@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
+<details>
+  <summary><b> ⚙️ &nbsp;GitHub Analytics</summary>
+  <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sparshmahajan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sparshmahajan&layout=compact&langs_count=8&theme=dark"/>
-</p>
+   </p>
+</details>
